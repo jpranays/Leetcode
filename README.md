@@ -1,9 +1,14 @@
 # Leetcode Questions
 
-| S/N | Leetcode Id | Difficulty | Question                                                                      | Answer                                                                             |
-| --- | ----------- | ---------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| 1   | 1           | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/)                             | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/TwoSum.js)              |
-| 2   | 9           | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)         | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/PalindromeNumber.js)    |
-| 3   | 13          | Easy       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)           | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/RomanToInteger.js)      |
-| 4   | 14          | Easy       | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/LongestCommonPrefix.js) |
-| 5   | 20          | Easy       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)         | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/ValidParentheses.js)    |
+| S/N | Leetcode Id | Difficulty | Question                                                                                                  | Answer                                                                                         |
+| --- | ----------- | ---------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 1   | 1           | Easy       | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/TwoSum.js)                          |
+| 2   | 9           | Easy       | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                     | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/PalindromeNumber.js)                |
+| 3   | 13          | Easy       | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                       | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/RomanToInteger.js)                  |
+| 4   | 14          | Easy       | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                             | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/LongestCommonPrefix.js)             |
+| 5   | 20          | Easy       | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                     | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/ValidParentheses.js)                |
+| 6   | 21          | Easy       | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/MergeTwoSortedLists.js)             |
+| 7   | 26          | Easy       | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/RemoveDuplicatesfromSortedArray.js) |
+| 8   | 27          | Easy       | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/RemoveElement.js)                   |
+| 9   | 35          | Easy       | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                           | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/SearchInsertPosition.js)            |
+| 10  | 53          | Easy       | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                 | [JS](https://github.com/jpranays/Leetcode/blob/master/Easy/LengthOfLastWord.js)                |
